@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/kiss/Desktop/neuroclinic/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/af30512/
+Antikoagulation bei VHF	draft.md	/^Antikoagulation bei VHF$/;"	c
+Apixaban = Eliquis(R)	draft.md	/^Apixaban = Eliquis(R)$/;"	s	chapter:NOAKs
+Buch Vorhofflimmern in der Praxis - mit Fallbeispielen	draft.md	/^Buch Vorhofflimmern in der Praxis - mit Fallbeispielen$/;"	c
+Dabigatran	draft.md	/^Dabigatran$/;"	s	chapter:NOAKs
+Edoxaban = Lixiana(R)	draft.md	/^Edoxaban = Lixiana(R)$/;"	s	chapter:NOAKs
+Epidemiologie	draft.md	/^Epidemiologie$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
+Fazit	draft.md	/^Fazit$/;"	s	chapter:NOAKs
+Frequenzkontrolle akut	draft.md	/^Frequenzkontrolle akut$/;"	s	chapter:Therapie des VHF
+Frequenzkontrolle chronisch	draft.md	/^Frequenzkontrolle chronisch$/;"	s	chapter:Therapie des VHF
+Frequenzkontrolle od. Rhythmuskontrolle?	draft.md	/^Frequenzkontrolle od. Rhythmuskontrolle?$/;"	s	chapter:Therapie des VHF
+Klinik: symptomatisch ist unangenehm, stumm ist gefährlich?	draft.md	/^Klinik: symptomatisch ist unangenehm, stumm ist gefährlich?$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
+NOAKs	draft.md	/^NOAKs$/;"	c
+Paroxysmal / persistierend / permanent?	draft.md	/^Paroxysmal \/ persistierend \/ permanent?$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
+Pat. nach Stentimplantation und VHF	draft.md	/^Pat. nach Stentimplantation und VHF$/;"	s	chapter:Plättchenhemmer?
+Pathophysiologie	draft.md	/^Pathophysiologie$/;"	c
+Plättchenhemmer?	draft.md	/^Plättchenhemmer?$/;"	c
+Prognose Vorhofflimmern	draft.md	/^Prognose Vorhofflimmern$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
+Rhythmuskontrolle	draft.md	/^Rhythmuskontrolle$/;"	s	chapter:Therapie des VHF
+Rivaroxaban = Xarelto(R)	draft.md	/^Rivaroxaban = Xarelto(R)$/;"	s	chapter:NOAKs
+Therapie des VHF	draft.md	/^Therapie des VHF$/;"	c
+Trigger	draft.md	/^Trigger$/;"	s	chapter:Pathophysiologie
+Vorhofflattern	draft.md	/^Vorhofflattern$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
+Vorhofflimmern od. Vorhofflattern?	draft.md	/^Vorhofflimmern od. Vorhofflattern?$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
