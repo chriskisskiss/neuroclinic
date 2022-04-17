@@ -1,0 +1,51 @@
+Bei der manuellen Palpation von Organen bewegen wir Gewebeschichten
+gegeneinander. Die dadurch entstehende Spannung widersetzt sich weiterer
+Deformation, was wir als Widerstand wahrnehmen.
+Dieser "innere Zusammenhalt" von Gewebe ist ein sensitives Maß für
+Krankheitsprozesse, spiegelt er doch die Komposition aus Zellen und
+extrazellulärer Matrix wider.
+
+Mit der Elastographie lassen sich die mechanischen Eigenschaften
+von Gewebe in vivo quantifizieren. Bei der Quantifizierung von
+fibrosierenden Prozessen der Leber hat sie sich bereits als Goldstandard
+etabliert.
+
+Bei der MR-Elastographie (MRE) werden Scherwellen mechanisch in Gewebe
+eingekoppelt und mit bewegungssensitiven Sequenzen deren Ausbreitungsverhalten
+dargestellt.
+Hierbei lassen nicht nur Rückschlüsse auf die Gewebesteifigkeit ziehen, die
+beschreibt, wie viel Kraft aufgewendet werden muss, um eine bestimmte
+Verformung zu erreichen. 
+Weiters lässt sich bestimmen, zu welchem Grad das Ausbreitungsverhalten der
+Welle der einer Flüssigkeit entspricht (viskos) oder der eines elastischen
+Materials, weshalb man bei der Elastographie biologischer Materialien von
+übergeordnet von Viskoelastizität spricht.
+
+Die viskoelastische Charakterisierung von Gehirngewebe stellt uns vor
+besonderen Herausforderungen - durch Kalotte und Liquor als Barriere bzw. "Stoßdämpfer"
+schützt sich das Gehirn natürlicherweise vor Verformung.
+Eine am Institut für Neuroimaging Graz entwickelte MRE-Sequenz mit Optimierung
+auf den niedrigfrequenten Frequenzbereich begegnet diesen Herausforderungen.
+
+
+
+
+
+
+Herausforderungen durch eine niedrigfrequente Anregung mit 20 Hz. Wie auch beim
+Ultraschall ist hiermit die elastographische Palpation tiefliegender Gewebe
+möglich.
+
+
+
+
+
+
+
+
+
+Als Ausdruck der Komposition von Zytoarchitektur und extrazellulärer Matrix 
+ist dieser "innere Zusammenhalt" von Gewebe somit ein sensitives Maß für
+Krankheitsprozesse.
+
+
