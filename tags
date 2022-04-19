@@ -9,8 +9,11 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/af30512/
+ASS-Vortherapie	Schlaganfall_Sekundärprophylaxe.md	/^ASS-Vortherapie$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
 Antikoagulation bei VHF	draft.md	/^Antikoagulation bei VHF$/;"	c
 Apixaban = Eliquis(R)	draft.md	/^Apixaban = Eliquis(R)$/;"	s	chapter:NOAKs
+Bei Aufnahme Sinusrhythmus:	Schlaganfall_Sekundärprophylaxe.md	/^Bei Aufnahme Sinusrhythmus:$/;"	c
+Bei Aufnahme VHF (vorbekannt: intermitt./permanent od. Erstdiagnose)	Schlaganfall_Sekundärprophylaxe.md	/^Bei Aufnahme VHF (vorbekannt: intermitt.\/permanent od. Erstdiagnose)$/;"	c
 Buch Vorhofflimmern in der Praxis - mit Fallbeispielen	draft.md	/^Buch Vorhofflimmern in der Praxis - mit Fallbeispielen$/;"	c
 Dabigatran	draft.md	/^Dabigatran$/;"	s	chapter:NOAKs
 Edoxaban = Lixiana(R)	draft.md	/^Edoxaban = Lixiana(R)$/;"	s	chapter:NOAKs
@@ -32,3 +35,13 @@ Therapie des VHF	draft.md	/^Therapie des VHF$/;"	c
 Trigger	draft.md	/^Trigger$/;"	s	chapter:Pathophysiologie
 Vorhofflattern	draft.md	/^Vorhofflattern$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
 Vorhofflimmern od. Vorhofflattern?	draft.md	/^Vorhofflimmern od. Vorhofflattern?$/;"	s	chapter:Buch Vorhofflimmern in der Praxis - mit Fallbeispielen
+Vortherapie ASS	Schlaganfall_Sekundärprophylaxe.md	/^Vortherapie ASS$/;"	s	chapter:Bei Aufnahme VHF (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie Clopidogrel	Schlaganfall_Sekundärprophylaxe.md	/^Vortherapie Clopidogrel$/;"	s	chapter:Bei Aufnahme VHF (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie NOAK	Schlaganfall_Sekundärprophylaxe.md	/^Vortherapie NOAK$/;"	s	chapter:Bei Aufnahme VHF (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie VKA	Schlaganfall_Sekundärprophylaxe.md	/^Vortherapie VKA$/;"	s	chapter:Bei Aufnahme VHF (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie mit OAK (VKA/NOAK) bei anderer Indikation	Schlaganfall_Sekundärprophylaxe.md	/^Vortherapie mit OAK (VKA\/NOAK) bei anderer Indikation$/;"	c
+Z.n. PAE / TVT (OAK = VKA od. NOAK)	Schlaganfall_Sekundärprophylaxe.md	/^Z.n. PAE \/ TVT (OAK = VKA od. NOAK)$/;"	s	chapter:Vortherapie mit OAK (VKA/NOAK) bei anderer Indikation
+bei Hochrisiko TIA (ABCD2-Score >=4) / Minor Stroke (NIHSS <= 3):	Schlaganfall_Sekundärprophylaxe.md	/^bei Hochrisiko TIA (ABCD2-Score >=4) \/ Minor Stroke (NIHSS <= 3):$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
+keine TFH-Vortherapie	Schlaganfall_Sekundärprophylaxe.md	/^keine TFH-Vortherapie$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
+keine Vortherapie (TFH od. OAK)	Schlaganfall_Sekundärprophylaxe.md	/^keine Vortherapie (TFH od. OAK)$/;"	s	chapter:Bei Aufnahme VHF (vorbekannt: intermitt./permanent od. Erstdiagnose)
+machanischer Klappenersatz (OAK = VKA):	Schlaganfall_Sekundärprophylaxe.md	/^machanischer Klappenersatz (OAK = VKA):$/;"	s	chapter:Vortherapie mit OAK (VKA/NOAK) bei anderer Indikation
