@@ -61,6 +61,7 @@ Cortisone	markdown/Medis.md	/^Cortisone$/;"	s
 Dabigatran	draft.md	/^Dabigatran$/;"	s	chapter:NOAKs
 Dekurs	markdown/Bei-Atemnot.md	/^Dekurs$/;"	c
 Delir bei Alkoholentzug	Bei Delir.md	/^Delir bei Alkoholentzug$/;"	s
+Delir bei Parkinson	Bei Delir.md	/^Delir bei Parkinson$/;"	s
 Delir bei Stroke	Bei Delir.md	/^Delir bei Stroke$/;"	s
 Diarrhoe	markdown/Medis.md	/^Diarrhoe$/;"	s	chapter:Stuhlsorge
 Differenzialdiagnosen	markdown/Bei Thoraxschmerz.md	/^Differenzialdiagnosen$/;"	s	chapter:Vorgehen
