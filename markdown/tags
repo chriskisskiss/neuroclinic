@@ -1,0 +1,135 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/kiss/Desktop/neuroclinic_wiki/neuroclinic.wiki/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/af30512/
+1. Generation	Delirbehandlung.md	/^1. Generation$/;"	s	chapter:Übersicht Neuroleptika
+1. Stufe = Antipyretische Analgetika	Bei Schmerzen.md	/^1. Stufe = Antipyretische Analgetika$/;"	s
+2. Generation	Delirbehandlung.md	/^2. Generation$/;"	s	chapter:Übersicht Neuroleptika
+2. Stufe = Antipyretische Analgetika \\+ Schwache Opioide	Bei Schmerzen.md	/^2. Stufe = Antipyretische Analgetika \\+ Schwache Opioide$/;"	s
+3. Stufe = Antipyretische Analgetika \\+ Starke Opioide	Bei Schmerzen.md	/^3. Stufe = Antipyretische Analgetika \\+ Starke Opioide$/;"	s
+AB	SU-Potpourri.md	/^AB$/;"	c
+AB-Einnahme	Medis.md	/^AB-Einnahme$/;"	s	chapter:Stuhlsorge
+ASS-Vortherapie	Sekundärprophylaxe-Stroke.md	/^ASS-Vortherapie$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
+Adalat(R) = Nifedipin	Calcium-Antagonisten.md	/^Adalat(R) = Nifedipin$/;"	s
+Adrenalin	Hypotonie.md	/^Adrenalin$/;"	s	chapter:Bei Hypotonie
+Akinetische Krise	Parkinson.md	/^Akinetische Krise$/;"	s
+Allgmeine NW der Opioide	Bei Schmerzen.md	/^Allgmeine NW der Opioide$/;"	c
+Analgetika und Antipyretika	Medis.md	/^Analgetika und Antipyretika$/;"	s
+Anti-Gicht	Medis.md	/^Anti-Gicht$/;"	s
+Antiandrogene	Medis.md	/^Antiandrogene$/;"	s
+Antiarrhythmika	Medis.md	/^Antiarrhythmika$/;"	s
+Antibiabetika	Medis.md	/^Antibiabetika$/;"	s
+Antibiotika	Medis.md	/^Antibiotika$/;"	s
+Antidementiva	Medis.md	/^Antidementiva$/;"	s
+Antidepressiva	Medis.md	/^Antidepressiva$/;"	s
+Antidiabetika	Medis.md	/^Antidiabetika$/;"	s
+Antidiuretika	Medis.md	/^Antidiuretika$/;"	s
+Antiemetika	Medis.md	/^Antiemetika$/;"	s
+Antihistaminika	Bei Schlafstoerungen.md	/^Antihistaminika$/;"	s
+Antihyperlipidämie-Medis	Medis.md	/^Antihyperlipidämie-Medis$/;"	s
+Antihypertensiva	Medis.md	/^Antihypertensiva$/;"	s
+Antikonvulsiva	Medis.md	/^Antikonvulsiva$/;"	s
+Antimeteorrhismus-Medis	Medis.md	/^Antimeteorrhismus-Medis$/;"	s	chapter:Stuhlsorge
+Antipsychotika	Medis.md	/^Antipsychotika$/;"	s
+Atemnot	Medis.md	/^Atemnot$/;"	s	chapter:Lokaltherapie
+Augen	Medis.md	/^Augen$/;"	c
+Bedarfsmedikation	Medis.md	/^Bedarfsmedikation$/;"	s
+Bei Aufnahme Sinusrhythmus:	Sekundärprophylaxe-Stroke.md	/^Bei Aufnahme Sinusrhythmus:$/;"	c
+Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)	Sekundärprophylaxe-Stroke.md	/^Bei Aufnahme VHFA (vorbekannt: intermitt.\/permanent od. Erstdiagnose)$/;"	c
+Bei Hypotonie	Hypotonie.md	/^Bei Hypotonie$/;"	c
+Benzodiazepin-ähnliche Substanzen	Bei Schlafstoerungen.md	/^Benzodiazepin-ähnliche Substanzen$/;"	s
+Benzodiazepina	Bei Schlafstoerungen.md	/^Benzodiazepina$/;"	s
+Benzos (Liste)	Bei Delir.md	/^Benzos (Liste)$/;"	c
+Blutdruckziele	Sekundärprophylaxe-Stroke.md	/^Blutdruckziele$/;"	s	chapter:FRÜHE Maßnahmen bei primärer ICH / klin. relevanter hämorrhagischer Transformation eines ischämischen Infarktes:
+Bradykardie	SU-Potpourri.md	/^Bradykardie$/;"	s	chapter:Gerinnung
+Chemotherapeutika / Antirheumatika	Medis.md	/^Chemotherapeutika \/ Antirheumatika$/;"	s
+Codieren	Aufnahme-SU.md	/^Codieren$/;"	s
+Cortisone	Medis.md	/^Cortisone$/;"	s
+Dekurs	Bei-Atemnot.md	/^Dekurs$/;"	c
+Diarrhoe	Medis.md	/^Diarrhoe$/;"	s	chapter:Stuhlsorge
+Differenzialdiagnosen	Bei Thoraxschmerz.md	/^Differenzialdiagnosen$/;"	s	chapter:Vorgehen
+Diuretika	Medis.md	/^Diuretika$/;"	s
+Dobutamin	Hypotonie.md	/^Dobutamin$/;"	s	chapter:Bei Hypotonie
+Durchatmen	Medis.md	/^Durchatmen$/;"	s
+Einschlaf-Medis	Medis.md	/^Einschlaf-Medis$/;"	s
+Elektrolyte	Medis.md	/^Elektrolyte$/;"	s
+Elektrolyte	SU-Potpourri.md	/^Elektrolyte$/;"	c
+Elomel OP	Flüssigkeit.md	/^Elomel OP$/;"	s
+Elomel isoton	Flüssigkeit.md	/^Elomel isoton$/;"	s
+Elomel-Semiton mit Glucose	Flüssigkeit.md	/^Elomel-Semiton mit Glucose$/;"	s
+Ernährung	Medis.md	/^Ernährung$/;"	s
+Ernährung	SU-Potpourri.md	/^Ernährung$/;"	c
+FRÜHE Maßnahmen bei primärer ICH / klin. relevanter hämorrhagischer Transformation eines ischämischen Infarktes:	Sekundärprophylaxe-Stroke.md	/^FRÜHE Maßnahmen bei primärer ICH \/ klin. relevanter hämorrhagischer Transformation eines is/;"	c
+FRÜHE Sekundärprophylaxe bei Dissektion hirnversorgender Gefäße:	Sekundärprophylaxe-Stroke.md	/^FRÜHE Sekundärprophylaxe bei Dissektion hirnversorgender Gefäße:$/;"	c
+Fragmin = Dalteparin	SU-Potpourri.md	/^Fragmin = Dalteparin$/;"	s	chapter:Gerinnung
+GI-Blutung bei SA	SU-Potpourri.md	/^GI-Blutung bei SA$/;"	s	chapter:Gerinnung
+Gerinnung	SU-Potpourri.md	/^Gerinnung$/;"	c
+Glucose 5%	Flüssigkeit.md	/^Glucose 5%$/;"	s
+HWI	SU-Potpourri.md	/^HWI$/;"	s	chapter:Gerinnung
+Hypersalivation	Medis.md	/^Hypersalivation$/;"	s	chapter:Lokaltherapie
+Hypertensive Krise	SU-Potpourri.md	/^Hypertensive Krise$/;"	c
+Infusionen	Medis.md	/^Infusionen$/;"	s
+Inhixa = Enoxaparin	SU-Potpourri.md	/^Inhixa = Enoxaparin$/;"	s	chapter:Gerinnung
+Innere	Abürzungen.md	/^Innere$/;"	s
+Isoptin(R) = Verapamil	Calcium-Antagonisten.md	/^Isoptin(R) = Verapamil$/;"	s
+Kardio	Abürzungen.md	/^Kardio$/;"	s
+Kardiopulmonale Reanimation	Bei-Notfall.md	/^Kardiopulmonale Reanimation$/;"	c
+Krankengeschichte	Aufnahme-SU.md	/^Krankengeschichte$/;"	s
+Kurve anfangen	Aufnahme-SU.md	/^Kurve anfangen$/;"	s
+Links	Schmerztherapie.md	/^Links$/;"	c
+Logopädie	Medis.md	/^Logopädie$/;"	c
+Lokaltherapie	Medis.md	/^Lokaltherapie$/;"	c
+MS-Medika	Medis.md	/^MS-Medika$/;"	s
+Nase	Medis.md	/^Nase$/;"	s	chapter:Lokaltherapie
+Neuroleptika	Bei Schlafstoerungen.md	/^Neuroleptika$/;"	s
+Niere	SU-Potpourri.md	/^Niere$/;"	s	chapter:Gerinnung
+Noradrenalin	Hypotonie.md	/^Noradrenalin$/;"	s	chapter:Bei Hypotonie
+Notfall	Medis.md	/^Notfall$/;"	s	chapter:Stuhlsorge
+Novalgin	Schmerztherapie.md	/^Novalgin$/;"	s
+Obstipation → Prokinetika	Medis.md	/^Obstipation → Prokinetika$/;"	s	chapter:Stuhlsorge
+Osmotische Therapie mit Mannitol	SU-Potpourri.md	/^Osmotische Therapie mit Mannitol$/;"	s	chapter:Gerinnung
+PPI	Medis.md	/^PPI$/;"	s
+Paracetamol	Schmerztherapie.md	/^Paracetamol$/;"	s
+Parallel	Bei-Notfall.md	/^Parallel$/;"	s	chapter:Kardiopulmonale Reanimation
+Parkinson-Medis	Medis.md	/^Parkinson-Medis$/;"	s
+Parkinson-Medis	Parkinson.md	/^Parkinson-Medis$/;"	s
+Ringer-Laktat	Flüssigkeit.md	/^Ringer-Laktat$/;"	s
+Spezialernährung	Medis.md	/^Spezialernährung$/;"	c
+Sterofundin ISO	Flüssigkeit.md	/^Sterofundin ISO$/;"	s
+Stuhlsorge	Medis.md	/^Stuhlsorge$/;"	c
+Thromboseprophylaxe:	Sekundärprophylaxe-Stroke.md	/^Thromboseprophylaxe:$/;"	s	chapter:FRÜHE Maßnahmen bei primärer ICH / klin. relevanter hämorrhagischer Transformation eines ischämischen Infarktes:
+Unruhe	SU-Potpourri.md	/^Unruhe$/;"	c
+Uro-Medikamente	Medis.md	/^Uro-Medikamente$/;"	s
+Vermeiden der Blutuingsprogression:	Sekundärprophylaxe-Stroke.md	/^Vermeiden der Blutuingsprogression:$/;"	s	chapter:FRÜHE Maßnahmen bei primärer ICH / klin. relevanter hämorrhagischer Transformation eines ischämischen Infarktes:
+Vitaminpräparate	Medis.md	/^Vitaminpräparate$/;"	s
+Vorgehen	Bei Thoraxschmerz.md	/^Vorgehen$/;"	c
+Vortherapie ASS	Sekundärprophylaxe-Stroke.md	/^Vortherapie ASS$/;"	s	chapter:Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie Clopidogrel	Sekundärprophylaxe-Stroke.md	/^Vortherapie Clopidogrel$/;"	s	chapter:Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie NOAK	Sekundärprophylaxe-Stroke.md	/^Vortherapie NOAK$/;"	s	chapter:Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie VKA	Sekundärprophylaxe-Stroke.md	/^Vortherapie VKA$/;"	s	chapter:Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)
+Vortherapie mit OAK (VKA/NOAK) bei anderer Indikation	Sekundärprophylaxe-Stroke.md	/^Vortherapie mit OAK (VKA\/NOAK) bei anderer Indikation$/;"	c
+Weiteres	Aufnahme-SU.md	/^Weiteres$/;"	s
+Z.n. PAE / TVT (OAK = VKA od. NOAK)	Sekundärprophylaxe-Stroke.md	/^Z.n. PAE \/ TVT (OAK = VKA od. NOAK)$/;"	s	chapter:Vortherapie mit OAK (VKA/NOAK) bei anderer Indikation
+Zentrale Muskelrelaxanzien	Medis.md	/^Zentrale Muskelrelaxanzien$/;"	s
+auf Kurve "Medikamentöse Thearpie: Therapie i.v./i.m./s.c. KI	Medis.md	/^auf Kurve "Medikamentöse Thearpie: Therapie i.v.\/i.m.\/s.c. KI$/;"	s
+bei Hochrisiko TIA (ABCD2-Score >=4) / Minor Stroke (NIHSS <= 3):	Sekundärprophylaxe-Stroke.md	/^bei Hochrisiko TIA (ABCD2-Score >=4) \/ Minor Stroke (NIHSS <= 3):$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
+bei Parkinson und Unruhe	Parkinson.md	/^bei Parkinson und Unruhe$/;"	s
+body	style.css	/^body{$/;"	s
+h1	style.css	/^h1,h2,h3,h4,h5,h6{$/;"	s
+h2	style.css	/^h1,h2,h3,h4,h5,h6{$/;"	s
+h3	style.css	/^h1,h2,h3,h4,h5,h6{$/;"	s
+h4	style.css	/^h1,h2,h3,h4,h5,h6{$/;"	s
+h5	style.css	/^h1,h2,h3,h4,h5,h6{$/;"	s
+h6	style.css	/^h1,h2,h3,h4,h5,h6{$/;"	s
+keine TFH-Vortherapie	Sekundärprophylaxe-Stroke.md	/^keine TFH-Vortherapie$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
+keine Vortherapie (TFH od. OAK)	Sekundärprophylaxe-Stroke.md	/^keine Vortherapie (TFH od. OAK)$/;"	s	chapter:Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)
+machanischer Klappenersatz (OAK = VKA):	Sekundärprophylaxe-Stroke.md	/^machanischer Klappenersatz (OAK = VKA):$/;"	s	chapter:Vortherapie mit OAK (VKA/NOAK) bei anderer Indikation
+später	Bei-Atemnot.md	/^später$/;"	s	chapter:Dekurs
+Übersicht Neuroleptika	Delirbehandlung.md	/^Übersicht Neuroleptika$/;"	c

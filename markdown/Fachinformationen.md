@@ -1,0 +1,1 @@
+[Inhixa Fachinformation](http://www.techdow.de/pdf/Inhixa%208000%20IE%2080%20mg08%20ml%20Injektionslsung.pdf)
