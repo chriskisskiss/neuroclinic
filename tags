@@ -18,6 +18,7 @@ AB	markdown/SU-Potpourri.md	/^AB$/;"	c
 AB-Einnahme	markdown/Medis.md	/^AB-Einnahme$/;"	s	chapter:Stuhlsorge
 ASS-Vortherapie	Schlaganfall_Sekundärprophylaxe.md	/^ASS-Vortherapie$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
 ASS-Vortherapie	markdown/Sekundärprophylaxe-Stroke.md	/^ASS-Vortherapie$/;"	s	chapter:Bei Aufnahme Sinusrhythmus:
+Ablauf Diagnostik/Therapie	markdown/Bei Koma.md	/^Ablauf Diagnostik\/Therapie$/;"	s
 Adalat(R) = Nifedipin	markdown/Calcium-Antagonisten.md	/^Adalat(R) = Nifedipin$/;"	s
 Adrenalin	markdown/Hypotonie.md	/^Adrenalin$/;"	s	chapter:Bei Hypotonie
 Akinetische Krise	markdown/Parkinson.md	/^Akinetische Krise$/;"	s
@@ -51,7 +52,6 @@ Bei Aufnahme VHFA (vorbekannt: intermitt./permanent od. Erstdiagnose)	markdown/S
 Bei Hypotonie	markdown/Hypotonie.md	/^Bei Hypotonie$/;"	c
 Benzodiazepin-ähnliche Substanzen	markdown/Bei Schlafstoerungen.md	/^Benzodiazepin-ähnliche Substanzen$/;"	s
 Benzodiazepina	markdown/Bei Schlafstoerungen.md	/^Benzodiazepina$/;"	s
-Benzos (Liste)	markdown/Bei Delir.md	/^Benzos (Liste)$/;"	c
 Blutdruckziele	markdown/Sekundärprophylaxe-Stroke.md	/^Blutdruckziele$/;"	s	chapter:FRÜHE Maßnahmen bei primärer ICH / klin. relevanter hämorrhagischer Transformation eines ischämischen Infarktes:
 Bradykardie	markdown/SU-Potpourri.md	/^Bradykardie$/;"	s	chapter:Gerinnung
 Buch Vorhofflimmern in der Praxis - mit Fallbeispielen	draft.md	/^Buch Vorhofflimmern in der Praxis - mit Fallbeispielen$/;"	c
@@ -60,9 +60,9 @@ Codieren	markdown/Aufnahme-SU.md	/^Codieren$/;"	s
 Cortisone	markdown/Medis.md	/^Cortisone$/;"	s
 Dabigatran	draft.md	/^Dabigatran$/;"	s	chapter:NOAKs
 Dekurs	markdown/Bei-Atemnot.md	/^Dekurs$/;"	c
-Delir bei Alkoholentzug	Bei Delir.md	/^Delir bei Alkoholentzug$/;"	s
-Delir bei Parkinson	Bei Delir.md	/^Delir bei Parkinson$/;"	s
-Delir bei Stroke	Bei Delir.md	/^Delir bei Stroke$/;"	s
+Delir bei Alkoholentzug	markdown/Bei Delir.md	/^Delir bei Alkoholentzug$/;"	s
+Delir bei Parkinson	markdown/Bei Delir.md	/^Delir bei Parkinson$/;"	s
+Delir bei Stroke	markdown/Bei Delir.md	/^Delir bei Stroke$/;"	s
 Diarrhoe	markdown/Medis.md	/^Diarrhoe$/;"	s	chapter:Stuhlsorge
 Differenzialdiagnosen	markdown/Bei Thoraxschmerz.md	/^Differenzialdiagnosen$/;"	s	chapter:Vorgehen
 Diuretika	markdown/Medis.md	/^Diuretika$/;"	s
@@ -91,6 +91,7 @@ Glucose 5%	markdown/Flüssigkeit.md	/^Glucose 5%$/;"	s
 HWI	markdown/SU-Potpourri.md	/^HWI$/;"	s	chapter:Gerinnung
 Hypersalivation	markdown/Medis.md	/^Hypersalivation$/;"	s	chapter:Lokaltherapie
 Hypertensive Krise	markdown/SU-Potpourri.md	/^Hypertensive Krise$/;"	c
+Häufigste Ursachen nach zeitl. Verlauf	markdown/Bei Koma.md	/^Häufigste Ursachen nach zeitl. Verlauf$/;"	s
 Infusionen	markdown/Medis.md	/^Infusionen$/;"	s
 Inhixa = Enoxaparin	markdown/SU-Potpourri.md	/^Inhixa = Enoxaparin$/;"	s	chapter:Gerinnung
 Innere	markdown/Abürzungen.md	/^Innere$/;"	s
@@ -130,7 +131,7 @@ Spezialernährung	markdown/Medis.md	/^Spezialernährung$/;"	c
 Sterofundin ISO	markdown/Flüssigkeit.md	/^Sterofundin ISO$/;"	s
 Stuhlsorge	markdown/Medis.md	/^Stuhlsorge$/;"	c
 Therapie des VHF	draft.md	/^Therapie des VHF$/;"	c
-Therapie symptomatisch	Bei Delir.md	/^Therapie symptomatisch$/;"	s
+Therapie symptomatisch	markdown/Bei Delir.md	/^Therapie symptomatisch$/;"	s
 Thromboseprophylaxe:	markdown/Sekundärprophylaxe-Stroke.md	/^Thromboseprophylaxe:$/;"	s	chapter:FRÜHE Maßnahmen bei primärer ICH / klin. relevanter hämorrhagischer Transformation eines ischämischen Infarktes:
 Trigger	draft.md	/^Trigger$/;"	s	chapter:Pathophysiologie
 Unruhe	markdown/SU-Potpourri.md	/^Unruhe$/;"	c
