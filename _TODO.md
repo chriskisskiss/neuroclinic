@@ -1,3 +1,6 @@
+- Fluanxol Depot = 
+- Seroquel = Quetiapin
+  - XR = extended release
 - Loniten = Minoxidil
 - Zyprexa = Olanzapin
 
