@@ -1,3 +1,7 @@
+- Loniten = Minoxidil
+- Zyprexa = Olanzapin
+
+
 vor Einleiten OAK nochmal ein cCT bei VHFA Fragezeichen
 
 - Feburo 80mg = Febuxostat (Gicht)
