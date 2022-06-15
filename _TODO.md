@@ -1,3 +1,5 @@
+vor Einleiten OAK nochmal ein cCT bei VHFA Fragezeichen
+
 - Feburo 80mg = Febuxostat (Gicht)
 - Deflamat = NSAR
 - Theophyllin bei KA
