@@ -20,3 +20,5 @@ Coffeekapton bei postpunktionellem Kopfschmerz!
 Vit B12 / Folsäure / Transcobolamin / Active Vit B12-Holotranscobolamin
 
 Diamox = Acetazolamid
+
+Nervenruh = Passionsblume, Baldrian
