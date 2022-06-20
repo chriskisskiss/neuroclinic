@@ -1,3 +1,7 @@
+Back-Blood-Sequenzen bilden primär die eigentlichen Gefäßwände ab und nicht den Blutfluss. Sie werden zum Beispiel bei der Bildgebung des Herzens sowie zur Darstellung von atherosklerotischen Plaques und Vaskulitiden eingesetzt.
+
+Black-Blood-Sequenz - DocCheck Flexikon
+
 - Fluanxol Depot = 
 - Seroquel = Quetiapin
   - XR = extended release
