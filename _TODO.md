@@ -1,3 +1,6 @@
+PCT = primäre Chemotherapie
+
+
 Von PP um ca. 20:30 verständigt, Pat. würde plötzlich nur mehr mit ja/nein
 antworten. Sofort visitiert. Sprachproduktion wieder deutlich verschlechtert, nur
 Einzelworte bzw. Satzfragmente, Verständnis intakt. Minimales Absinken im AVV
