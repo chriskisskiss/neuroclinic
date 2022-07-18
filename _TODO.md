@@ -1,4 +1,13 @@
-PCT = primäre Chemotherapie
+https://dgn.org/leitlinien/ll-030-105-2018-intrakranieller-druck-icp/
+https://deutsch.medscape.com/artikel/4901719
+https://psychosomatik.charite.de/fileadmin/user_upload/microsites/m_cc12/psychosom-ccm/Dissoziation/Brochure_de_web.pdf
+
+----------
+
+
+
+
+PCT = primäre Chemotherapie (also keine OP, keine Radiatio)
 
 
 Von PP um ca. 20:30 verständigt, Pat. würde plötzlich nur mehr mit ja/nein
