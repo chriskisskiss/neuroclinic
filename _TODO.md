@@ -1,5 +1,18 @@
+
+-----------
+
+minimally invasive spine surgery
+TLIF = transforaminal lumbar interbody fusion
+
+-----------
+
+Jackson-Pratt drain
+
+-----------
+
 Chiari-Malformation
 https://www2.medizin.uni-greifswald.de/neuro_ch/index.php?id=518
+
 -----------
 
 https://dgn.org/leitlinien/ll-030-105-2018-intrakranieller-druck-icp/
@@ -7,9 +20,6 @@ https://deutsch.medscape.com/artikel/4901719
 https://psychosomatik.charite.de/fileadmin/user_upload/microsites/m_cc12/psychosom-ccm/Dissoziation/Brochure_de_web.pdf
 
 ----------
-
-
-
 
 PCT = primäre Chemotherapie (also keine OP, keine Radiatio)
 
@@ -24,17 +34,16 @@ deutliche Besserung der Sprachstörung. CT mündliche Mitteilung nach Durchsicht
 CT --> kein Großgefäßverschluss, Befund folgt.
 Bei Rückkehr auf SU Sprache praktisch normalisiert, noch geringe
 Wortfindungsstörungen, kein Absinken im AVV mehr.
-Erneut RS mit HD und ID bzgl. prophylaktischer Therapie: morgen Früh Inhixa 40mg
-__________s_._c._, _d_an_n_ _A_b_kl_är_u_ng_ _(T_E_E_ _un_d_ _cM__R_T)_, _a_n_sc_h_lie_ß_e_n_d _T_h_e_ra_p_ie_re_e_va_lu_i_er_u_ng________
-
-
+Erneut RS mit HD und ID bzgl. prophylaktischer Therapie: morgen Früh Inhixa 40mg s.c., dann Abklärung (TEE und cMRT), anschließend Therapiereevaluierung
 
 -----------------------------------------------------------------------------
-
 
 Back-Blood-Sequenzen bilden primär die eigentlichen Gefäßwände ab und nicht den Blutfluss. Sie werden zum Beispiel bei der Bildgebung des Herzens sowie zur Darstellung von atherosklerotischen Plaques und Vaskulitiden eingesetzt.
 
 Black-Blood-Sequenz - DocCheck Flexikon
+https://healthcare-in-europe.com/de/news/die-black-blood-bildgebung.html
+
+-----------------
 
 - Fluanxol Depot = 
 - Seroquel = Quetiapin
